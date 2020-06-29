@@ -1,0 +1,11 @@
+@import url(https://allfont.es/allfont.css?fonts=digital-7);
+
+
+html, body
+  {
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Digital-7', arial;
+    font-size: 10px;
+    text-align: justify;
+  }
