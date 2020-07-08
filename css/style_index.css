@@ -3,11 +3,12 @@ body {
 	font-size: 11.5px;
 	margin: 0px;
   text-align: center;
+	background-color: #FF00FF;
 }
 
-img.resize {
-  max-width:40%;
-  max-height:40%;
+body:after{
+ display:none;
+ content: url('images/LOGOPUNKY.png') url('images/SHITPUNKY.png');
 }
 
 .image_center{
