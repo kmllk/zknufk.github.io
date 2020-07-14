@@ -33,10 +33,9 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 4vw;
+         font-size: 2vw;
          color: #1A171B;
          border: 15px solid #00ffff;
-            display: block;
        }
 
      #download_ios a
@@ -66,10 +65,9 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 4vw;
+         font-size: 2vw;
          color: #1A171B;
          border: 15px solid #ff00ff;
-          display: block;
        }
 
      #download_android a
@@ -92,7 +90,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 4vw;
+         font-size: 2vw;
          color: #1A171B;
          border: 15px solid #1A171B;
        }
@@ -117,7 +115,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 4vw;
+         font-size: 2vw;
          color: #1A171B;
          border: 15px solid #00ff00;
        }
