@@ -12,7 +12,7 @@
          padding: 0;
          margin: 0;
          font-family: 'Digital-7', arial;
-         font-size: 1.4em;
+         font-size: 4vw;
        }
 
      div
@@ -33,7 +33,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 1.8em;
+         font-size: 8vw;
          color: #1A171B;
          border: 15px solid #00ffff;
        }
@@ -65,7 +65,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 1.8em;
+         font-size: 8vw;
          color: #1A171B;
          border: 15px solid #ff00ff;
        }
@@ -90,7 +90,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 1.8em;
+         font-size: 8vw;
          color: #1A171B;
          border: 15px solid #1A171B;
        }
@@ -115,7 +115,7 @@
          margin: 0;
          paddig: 0;
          background-color: #ffffff;
-         font-size: 1.8em;
+         font-size: 8vw;
          color: #1A171B;
          border: 15px solid #00ff00;
        }
