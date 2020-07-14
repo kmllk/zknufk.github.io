@@ -177,7 +177,7 @@
 
   #download_ios:hover {
     background-color: #ffffff;
-    font-size: 50px;
+    font-size: 1.8em;
     color: #1A171B;
     border: 15px solid #00ffff;
   }
@@ -214,7 +214,7 @@
 
   #download_android:hover {
     background-color: #ffffff;
-    font-size: 50px;
+    font-size: 1.8em;
     color: #1A171B;
     border: 15px solid #ff00ff;
   }
@@ -244,7 +244,7 @@
 
   #legaltext:hover {
     background-color: #ffffff;
-    font-size: 50px;
+    font-size: 1.8em;
     color: #1A171B;
     border: 15px solid #1A171B;
   }
@@ -274,7 +274,7 @@
 
   #about:hover {
     background-color: #ffffff;
-    font-size: 50px;
+    font-size: 1.8em;
     color: #1A171B;
     border: 15px solid #00ff00;
   }
