@@ -36,6 +36,7 @@
          font-size: 4vw;
          color: #1A171B;
          border: 15px solid #00ffff;
+            display: block;
        }
 
      #download_ios a
@@ -68,6 +69,7 @@
          font-size: 4vw;
          color: #1A171B;
          border: 15px solid #ff00ff;
+          display: block;
        }
 
      #download_android a
