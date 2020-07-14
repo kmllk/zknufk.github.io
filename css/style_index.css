@@ -23,8 +23,8 @@
 
 		.image_center img {
 			position: fixed;
-			top: 50%;
-			left: 50%;
+			top: 40%;
+			left: 40%;
 			max-width: 40%;
 			max-height: 40%;
 		}
