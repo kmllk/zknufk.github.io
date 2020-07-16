@@ -21,3 +21,7 @@ th,td {
 .first_column {
   width: 20%;
 }
+
+.second_column {
+  width: 80%;
+}
