@@ -10,15 +10,10 @@ html, body
   }
 
 table {
-    width: 100%;
-    padding: 0;
-    margin: 0;
+  table-layout: fixed;
+  width: 100%;
 }
 
-.first_column {
-    width: 10%;
-}
-
-.second_column {
-    width: 60%
+th,td {
+    word-wrap: break-word;
 }
