@@ -36,10 +36,9 @@
          justify-content: center;
          margin: 0;
          paddig: 0;
-         background-color: #ffffff;
          font-size: 3vw;
-         color: #1A171B;
-         border: 15px solid #00ffff;
+         background-color: #00ffff;
+         color: #ffffff;
        }
 
      #download_ios a
@@ -68,10 +67,9 @@
          text-align: center;
          margin: 0;
          paddig: 0;
-         background-color: #ffffff;
          font-size: 3vw;
-         color: #1A171B;
-         border: 15px solid #ff00ff;
+         color: #ffffff;
+         background: #ff00ff;
        }
 
      #download_android a
@@ -93,10 +91,9 @@
          bottom: 0;
          margin: 0;
          paddig: 0;
-         background-color: #ffffff;
          font-size: 3vw;
-         color: #1A171B;
-         border: 15px solid #1A171B;
+         background: #1A171B;
+         color: #ffffff;
        }
 
      #legaltext a
@@ -118,10 +115,9 @@
          bottom: 0;
          margin: 0;
          paddig: 0;
-         background-color: #ffffff;
          font-size: 3vw;
-         color: #1A171B;
-         border: 15px solid #00ff00;
+         background: #00ff00;
+         color: #ffffff;
        }
 
      #about a
@@ -194,7 +190,6 @@
 
   #download_android
   {
-      background: #ff00ff;
       top: 0;
       left: 50%;
       right: 0;
@@ -203,6 +198,7 @@
       margin: 0;
       paddig: 0;
       color: #ffffff;
+      background: #ff00ff;
     }
 
   #download_android a
@@ -225,13 +221,13 @@
 
   #legaltext
     {
-      background: #1A171B;
       top: 50%;
       left: 0;
       right: 50%;
       bottom: 0;
       margin: 0;
       paddig: 0;
+      background: #1A171B;
       color: #ffffff;
     }
 
