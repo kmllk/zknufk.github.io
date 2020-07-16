@@ -19,9 +19,5 @@ th,td {
 }
 
 .first_column {
-  width: 20%;
-}
-
-.second_column {
-  width: auto;
+  min-width: 10vw;
 }
