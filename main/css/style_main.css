@@ -3,8 +3,8 @@
 @media (max-width:1100px) {
     @font-face {
          font-family: 'Digital7';
-         src: url("/fonts/Digital-7.eot");
-         src: url("/fonts/digital-7.ttf") format('ttf'),
+         src: url("/fonts/digital-7.ttf");
+         src: url("/fonts/Digital-7.eot") format('embedded-opentype'),
               url("/fonts/Digital-7.svg") format('svg'),
               url("/fonts/Digital-7.woff") format('woff');
        }
@@ -15,7 +15,7 @@
          height: 100%;
          padding: 0;
          margin: 0;
-         font-family: 'Digital-7', arial;
+         font-family: 'Digital7';
          font-size: 3vw;
        }
 
