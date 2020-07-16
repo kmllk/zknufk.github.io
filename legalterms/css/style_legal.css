@@ -15,5 +15,9 @@ table {
 }
 
 th,td {
-    word-wrap: break-word;
+   word-wrap: break-word;
+}
+
+.first_column {
+  width: 20%;
 }
