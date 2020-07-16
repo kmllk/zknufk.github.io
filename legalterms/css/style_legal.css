@@ -14,10 +14,6 @@ table {
   width: 90%;
 }
 
-th,td {
+td {
    word-wrap: break-word;
-}
-
-.first_column {
-  min-width: 10vw;
 }
