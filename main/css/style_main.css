@@ -16,7 +16,7 @@
          padding: 0;
          margin: 0;
          font-family: 'Digital7';
-         font-size: 3vw;
+         font-size: 7vw;
        }
 
      div
@@ -36,7 +36,7 @@
          justify-content: center;
          margin: 0;
          paddig: 0;
-         font-size: 5vw;
+         font-size: 7vw;
          background-color: #00ffff;
          color: #ffffff;
        }
@@ -67,7 +67,7 @@
          text-align: center;
          margin: 0;
          paddig: 0;
-         font-size: 5vw;
+         font-size: 7vw;
          color: #ffffff;
          background: #ff00ff;
        }
@@ -91,7 +91,7 @@
          bottom: 0;
          margin: 0;
          paddig: 0;
-         font-size: 5vw;
+         font-size: 7vw;
          background: #1A171B;
          color: #ffffff;
        }
@@ -115,7 +115,7 @@
          bottom: 0;
          margin: 0;
          paddig: 0;
-         font-size: 5vw;
+         font-size: 7vw;
          background: #00ff00;
          color: #ffffff;
        }
