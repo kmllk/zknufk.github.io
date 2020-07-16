@@ -21,4 +21,5 @@ td {
 .first_column {
   width: 25%;
   text-align: left;
+  vertical-align: top;
 }
